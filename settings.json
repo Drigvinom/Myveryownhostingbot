@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Drigvinom.aternos.me",
+    "ip": "Drigvinom.aternos.me:38500",
     "port": 38500,
     "version": "",
     "try-creative": false
